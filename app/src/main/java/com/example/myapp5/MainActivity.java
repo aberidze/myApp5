@@ -10,6 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+/* Hello, Anri. I did this in browser! */
+
 public class MainActivity extends AppCompatActivity {
     // Declaring EditTexts:
     EditText nameET, locET;
